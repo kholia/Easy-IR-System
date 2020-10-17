@@ -1,0 +1,9 @@
+[submodule "repositories/micronucleus"]
+	path = repositories/micronucleus
+	url = https://github.com/micronucleus/micronucleus.git
+[submodule "repositories/v-usb"]
+	path = repositories/v-usb
+	url = https://github.com/obdev/v-usb.git
+[submodule "repositories/Adafruit-Trinket-USB"]
+	path = repositories/Adafruit-Trinket-USB
+	url = https://github.com/kholia/Adafruit-Trinket-USB.git
